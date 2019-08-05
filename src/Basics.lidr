@@ -207,7 +207,7 @@ solve the proof for you.)
 \todo[inline]{Verify the "main uses" claim.}
 
 Third, we can ask Idris to _generate_, from our definition, a program in some
-other, more conventional, programming (C, JavaScript and Node are bundled with
+other, more conventional, programming language (C, JavaScript and Node are bundled with
 Idris) with a high-performance compiler. This facility is very interesting,
 since it gives us a way to construct \gls{fully certified} programs in
 mainstream languages. Indeed, this is one of the main uses for which Idris was
