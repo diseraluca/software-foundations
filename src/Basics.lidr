@@ -173,7 +173,7 @@ Tuesday : Day
 We show Idris's responses in comments, but, if you have a computer handy, this
 would be an excellent moment to fire up the Idris interpreter under your
 favorite Idris-friendly text editor -- such as Emacs or Vim -- and try this for
-and try this for yourself. Load this file, `Basics.lidr` from the book's
+yourself. Load this file, `Basics.lidr` from the book's
 accompanying Idris sources, find the above example, submit it to the Idris REPL,
 and observe the result.
 
